@@ -7,6 +7,7 @@ assignees:
 sites:
   - name: EnfX application
     url: https://app.enfx.io/sign-in
+    slug: enfx-application
 
 status-website:
   cname: status.enfx.io
