@@ -1,0 +1,20 @@
+[
+  {
+    "name": "EnfX application",
+    "url": "https://app.enfx.io/sign-in",
+    "icon": "https://icons.duckduckgo.com/ip3/app.enfx.io.ico",
+    "slug": "enf-x-application",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2219,
+    "timeDay": 2219,
+    "timeWeek": 2219,
+    "timeMonth": 2219,
+    "timeYear": 2219,
+    "dailyMinutesDown": {}
+  }
+]
